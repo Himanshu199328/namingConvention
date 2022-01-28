@@ -1,0 +1,9 @@
+The StringBuilder in Java represents a mutable sequence of characters. Since the String Class in Java creates an immutable sequence of characters, the StringBuilder class provides an alternative to String Class, as it creates a mutable sequence of characters.
+NAMING CONVENTION ON 
+1.String Builder CLASS-It use camel case styling for naming convention of class
+2.function:
+2.1->StringBuilder appendCodePoint(int codePoint): This method appends the string representation of the codePoint argument to this sequence.
+2.2->Void ensureCapacity(int minimumCapacity): This method ensures that the capacity is at least equal to the specified minimum.
+These above method also use camel case styling for naming convention and we can also get idea that what this function is going to do because of meaningfull naming of method
+
+
